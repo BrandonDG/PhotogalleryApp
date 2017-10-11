@@ -1,0 +1,4 @@
+#Thu Oct 05 16:18:17 PDT 2017
+base.0=C\:\\Users\\Brandon\\AndroidStudioProjects\\PhotogalleryApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=C\:\\Users\\Brandon\\AndroidStudioProjects\\PhotogalleryApp\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
